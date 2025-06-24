@@ -1,1 +1,1 @@
-# QuizWhiz-Ai-Quiz-Generator
+#QuizVerse
