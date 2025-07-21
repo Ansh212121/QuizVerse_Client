@@ -6,6 +6,27 @@
 
 ---
 
+## 🖼️ Preview
+
+> Here's a visual walkthrough of QuizVerse in action:
+
+### 🧠 AI-Generated Quiz Interface  
+<img width="1877" height="837" alt="Quiz Page" src="https://github.com/user-attachments/assets/d4c8bd71-8725-4c76-9f75-bc0022f8818f" />
+
+### 📋 Quiz Result with Answer Breakdown  
+<img width="1871" height="831" alt="Quiz Result" src="https://github.com/user-attachments/assets/7167ff53-d9f7-44bf-8e88-3beb3f38213f" />
+
+### 📚 Past History & Detailed Result View  
+<img width="1858" height="726" alt="History Details" src="https://github.com/user-attachments/assets/639cbb98-e09b-438d-8647-c731db9249d3" />
+
+### 📊 Personalized Dashboard with Analytics  
+<img width="1844" height="840" alt="Dashboard Charts" src="https://github.com/user-attachments/assets/f3844fc6-7bad-44ef-b3b9-f91075dac8bb" />
+
+### 🧾 Quiz List History  
+<img width="1213" height="756" alt="Quiz History Table" src="https://github.com/user-attachments/assets/38df0a13-5f88-4601-9ca2-9cc7329094e9" />
+
+---
+
 ## 🚀 Features
 
 - 🤖 AI-based quiz generation using **Gemini**
@@ -104,13 +125,12 @@ quizverse/
 
 ---
 
-
 ## 📊 Dashboard Analytics (via Chart.js)
 
-- **Line Graph** – Performance over time
-- **Pie Chart** – Correct vs Incorrect answers
-- **Bar Graph** – Topic-wise score
-- **Time Analysis** – Speed per quiz attempt
+- 📈 **Line Graph** – Performance over time
+- 🧠 **Pie Chart** – Correct vs Incorrect answers
+- 📚 **Bar Graph** – Topic-wise score
+- ⏱️ **Time Analysis** – Speed per quiz attempt
 
 ---
 
@@ -125,5 +145,3 @@ quizverse/
 ## 📃 License
 
 Licensed under the [MIT License](LICENSE)
-
-
